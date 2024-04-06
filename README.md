@@ -9,7 +9,7 @@
 
 ## First Love in Web Development ❤️
 
-My first passion in website building of personal projects was the [SchoolField.com.ua a long-established amateur sports blog with a lot of useful tips](https://schoolfield.com.ua).
+My first passion in website building of personal projects was the [SchoolField.com.ua a long-established amateur sports blog](https://schoolfield.com.ua) with a lot of useful tips.
 
 
 <!--
