@@ -1,6 +1,6 @@
 # Hello, I'm Yarik ☕
 
-**The most important thing in my life is coffee.** I'm the Founder and a Full Stack Web Developer at [Web Gate UI and UX Design Agency](https://web-gate.org), working in the web development industry for my own pleasure since 2007.
+**The most important thing in my life is coffee.** I'm the Founder and a Full Stack Web Developer at [Web Gate UI and UX Design Agency for bespoke web solutions](https://web-gate.org), working in the web development industry for my own pleasure since 2007.
 
 ## Career Highlights 🚀
 
@@ -9,7 +9,7 @@
 
 ## First Love in Web Development ❤️
 
-My first passion in website building of personal projects was the [SchoolField.com.ua a sport, health blog](https://schoolfield.com.ua).
+My first passion in website building of personal projects was the [SchoolField.com.ua a long-established amateur sports blog with a lot of useful tips](https://schoolfield.com.ua).
 
 
 <!--
