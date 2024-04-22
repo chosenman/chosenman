@@ -11,6 +11,8 @@
 
 My first passion in website building of personal projects was the [SchoolField.com.ua a long-established amateur sports blog](https://schoolfield.com.ua) with a lot of useful tips.
 
+## Helpful links
+ - [online CV](https://chosenman.github.io/) (last time updated in 2018)
 
 <!--
 **chosenman/chosenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
